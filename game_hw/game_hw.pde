@@ -14,11 +14,11 @@ int x = 20;
 int y = 20;
 int k = 0;
 
-int playerWidth = 587;
-int playerHeight = 707;
+int playerWidth = 300;
+int playerHeight =300;
 
-int enemyWidth = 579;
-int enemyHeight = 763;
+int enemyWidth = 300;
+int enemyHeight = 300;
 
 boolean isWalking = false;
 boolean isIdle = true;
